@@ -1,0 +1,12 @@
+#It ignores all the files of Face_recognition/Model folder.
+
+Face_recognition/Model/
+
+
+#It ignores the file with .npy files
+
+*.npy
+
+
+# Ignores .DS_Store file
+.DS_Store
