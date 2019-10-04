@@ -15,6 +15,7 @@ Step 4: Put all the those LFW images on "Face-Verification-System/Images/lfw 2" 
 
 Step 5: Run Application_Interface.py.
 
+
 Now you are ready to compare two images.
 
 Step 1: Click on the button **Upload Real Image** and upload image.
@@ -24,5 +25,6 @@ Step 2: Click on the button **Upload Image to Compare** and upload another image
 Step 3: Click on the button **Compare Images**.
 
 You will see result in the Result section down below.
+
 
 Reference: Schroff, F., Kalenichenko, D. and Philbin, J., 2015. Facenet: A unified embedding for face recognition and clustering. In _Proceedings of the IEEE conference on computer vision and pattern recognition_ (pp. 815-823). Retrieved 4 Oct 2019) 
