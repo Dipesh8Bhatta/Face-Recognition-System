@@ -5,7 +5,7 @@ This system is designed using the pre-build model. The paper "FaceNet: A Unified
 
 All thanks to the work of authors(Schroff, F., Kalenichenko, D. and Philbin, J., 2015.). This system is based on their work and model they trained.
 
-Step 1: Download the pretrained model from [here](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-).
+Step 1: Download the pretrained model from [here](https://drive.google.com/open?id=1EXPBSXwTaqrSC0OhUdXNmKSh9qJUQ55-) and put it into "Face-Verification-System/Model/" folder.
 
 Step 2: Download the code.
 
