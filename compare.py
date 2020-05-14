@@ -139,4 +139,4 @@ def parse_arguments(argv):
 
 
 if __name__ == '__main__':
-    main(parse_arguments(["/Users/mac/PycharmProjects/Face_recognition/Model/20180402-114759", "/Users/mac/PycharmProjects/Face_recognition/Images/Anthony_Hopkins_0001.jpg", "/Users/mac/PycharmProjects/Face_recognition/Images/Anthony_Hopkins_0002.jpg"]))
+    main(parse_arguments(["Model/20180402-114759", "Images/Anthony_Hopkins_0001.jpg", "Images/Anthony_Hopkins_0002.jpg"]))
